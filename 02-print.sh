@@ -13,3 +13,9 @@ echo today date is $DATE
 Add=$((2+3))
 
 echo number $Add
+
+#Array
+b= (10 20)
+echo $(b[0])
+
+echo $(b[1])
