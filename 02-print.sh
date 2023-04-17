@@ -6,3 +6,6 @@ position=manager
 echo raja - $salary
 echo position - $position
 
+DATE = $(date)
+
+echo today date is $date
