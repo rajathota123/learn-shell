@@ -3,6 +3,6 @@ echo hello world
 salary=10,000
 position=manager
 
-raja -$salary
-position -$position
+echo raja - $salary
+echo position - $position
 
