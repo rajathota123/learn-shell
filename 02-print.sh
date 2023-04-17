@@ -8,4 +8,4 @@ echo position - $position
 
 DATE = $(date)
 
-echo today date is $date
+echo today date is $DATE
